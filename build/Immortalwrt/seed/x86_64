@@ -1,6 +1,6 @@
 CONFIG_TARGET_ipq40xx=y
 CONFIG_TARGET_ipq40xx_generic=y
-CONFIG_TARGET_ipq40xx_generic_DEVICE_8dev_habanero-dvk=y
+#CONFIG_TARGET_ipq40xx_generic_DEVICE_8dev_habanero-dvk=y
 CONFIG_GNUTLS_ALPN=y
 CONFIG_GNUTLS_ANON=y
 CONFIG_GNUTLS_CRYPTODEV=y
